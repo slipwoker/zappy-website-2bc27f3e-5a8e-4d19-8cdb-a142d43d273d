@@ -1,0 +1,79 @@
+# Orly Furman — Generative Engine Optimization Map
+
+> Orly Furman is an established personal brand with an existing website at orlyfurman.com. The user wants to take all existing content and recreate it into a dramatically more powerful, wild, and impressive version — essentially a supercharged evolution of the current site, amplified by 1000x in terms of creativity, impact, and wow-factor.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+אורלי פורמן תהפוך את הזהות שלך לנשק עסקי חד פעמי. בניית מותג אישי שמדבר, מושך ומוכר — כי אתה לא עוד אחד, אתה הבחירה הברורה.
+
+### תוכניות
+https://example.com/programs
+תוכניות ליווי אינטנסיביות לבניית מותג אישי שמייצר הכנסות, סמכות ומשיכה. personal branding for coaches ויזמים שרוצים להפסיק להיות שקופים.
+
+### אודות
+https://example.com/about
+אורלי פורמן היא לא עוד מומחית — היא הכוח שהפך עשרות יזמים לפנים מוכרות בתחומם. גלה את הסיפור, השיטה והאש שמניעים את branding coaches הטובים בישראל.
+
+### צור קשר
+https://example.com/contact
+מוכן להפסיק להיות שקוף ולהתחיל למשוך את הלקוחות שתמיד רצית? צור קשר עם אורלי פורמן עכשיו ותגלה איך בניית מותג אישי לפרילנסרים מתחילה בשיחה אחת.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `subject` (text)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Orly Furman
+Orly Furman is an established personal brand with an existing website at orlyfurman.com. The user wants to take all existing content and recreate it into a dramatically more powerful, wild, and impressive version — essentially a supercharged evolution of the current site, amplified by 1000x in terms of creativity, impact, and wow-factor.
+
+## Target Audience
+- פרילנסרים יצירתיים
+- מאמנים מתחילים
+- בעלי עסקים קטנים
+
+## Industry
+Personal Branding & Coaching
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
